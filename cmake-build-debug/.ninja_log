@@ -1,0 +1,9 @@
+# ninja log v5
+0	646	1648275135855140810	CMakeFiles/amazaingC.dir/main.cpp.o	6cd7e94f12c2d83d
+1	669	1648275135878403401	CMakeFiles/amazaingC.dir/BasicsC/AmazaingBasicsC.cpp.o	2d377aedad20f9bd
+3	45	1648275143241609560	CMakeFiles/amazaingC.dir/BasicsC/MainC.cpp.o	65da1f0b9ddba1cf
+45	127	1648275143323827296	amazaingC	bd28a767fd8ec6eb
+3	615	1648275177087485568	CMakeFiles/amazaingC.dir/BasicsC/AmazaingBasicsC.cpp.o	2d377aedad20f9bd
+615	679	1648275177153677109	amazaingC	bd28a767fd8ec6eb
+3	563	1648275191957612873	CMakeFiles/amazaingC.dir/BasicsC/AmazaingBasicsC.cpp.o	2d377aedad20f9bd
+563	615	1648275192012294268	amazaingC	bd28a767fd8ec6eb

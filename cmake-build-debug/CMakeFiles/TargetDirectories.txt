@@ -1,0 +1,3 @@
+/Users/caojian/Desktop/amazaingC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/caojian/Desktop/amazaingC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/caojian/Desktop/amazaingC/cmake-build-debug/CMakeFiles/amazaingC.dir
