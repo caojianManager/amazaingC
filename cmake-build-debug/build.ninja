@@ -78,17 +78,17 @@ build CMakeFiles/amazaingC.dir/main.cpp.o: CXX_COMPILER__amazaingC_Debug /Users/
   OBJECT_DIR = CMakeFiles/amazaingC.dir
   OBJECT_FILE_DIR = CMakeFiles/amazaingC.dir
 
-build CMakeFiles/amazaingC.dir/BasicsC/AmazaingBasicsC.cpp.o: CXX_COMPILER__amazaingC_Debug /Users/caojian/Desktop/amazaingC/BasicsC/AmazaingBasicsC.cpp || cmake_object_order_depends_target_amazaingC
-  DEP_FILE = CMakeFiles/amazaingC.dir/BasicsC/AmazaingBasicsC.cpp.o.d
-  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
-  OBJECT_DIR = CMakeFiles/amazaingC.dir
-  OBJECT_FILE_DIR = CMakeFiles/amazaingC.dir/BasicsC
-
 build CMakeFiles/amazaingC.dir/BasicsC/MainC.cpp.o: CXX_COMPILER__amazaingC_Debug /Users/caojian/Desktop/amazaingC/BasicsC/MainC.cpp || cmake_object_order_depends_target_amazaingC
   DEP_FILE = CMakeFiles/amazaingC.dir/BasicsC/MainC.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
   OBJECT_DIR = CMakeFiles/amazaingC.dir
   OBJECT_FILE_DIR = CMakeFiles/amazaingC.dir/BasicsC
+
+build CMakeFiles/amazaingC.dir/BasicsC/ArrayBasicsC/ArrayBasicsC.cpp.o: CXX_COMPILER__amazaingC_Debug /Users/caojian/Desktop/amazaingC/BasicsC/ArrayBasicsC/ArrayBasicsC.cpp || cmake_object_order_depends_target_amazaingC
+  DEP_FILE = CMakeFiles/amazaingC.dir/BasicsC/ArrayBasicsC/ArrayBasicsC.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
+  OBJECT_DIR = CMakeFiles/amazaingC.dir
+  OBJECT_FILE_DIR = CMakeFiles/amazaingC.dir/BasicsC/ArrayBasicsC
 
 
 # =============================================================================
@@ -98,7 +98,7 @@ build CMakeFiles/amazaingC.dir/BasicsC/MainC.cpp.o: CXX_COMPILER__amazaingC_Debu
 #############################################
 # Link the executable amazaingC
 
-build amazaingC: CXX_EXECUTABLE_LINKER__amazaingC_Debug CMakeFiles/amazaingC.dir/main.cpp.o CMakeFiles/amazaingC.dir/BasicsC/AmazaingBasicsC.cpp.o CMakeFiles/amazaingC.dir/BasicsC/MainC.cpp.o
+build amazaingC: CXX_EXECUTABLE_LINKER__amazaingC_Debug CMakeFiles/amazaingC.dir/main.cpp.o CMakeFiles/amazaingC.dir/BasicsC/MainC.cpp.o CMakeFiles/amazaingC.dir/BasicsC/ArrayBasicsC/ArrayBasicsC.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2
   OBJECT_DIR = CMakeFiles/amazaingC.dir
   POST_BUILD = :

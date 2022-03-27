@@ -3,9 +3,9 @@
 //
 
 #include "MainC.h"
-#include "AmazaingBasicsC.h"
+#include "ArrayBasicsC/ArrayBasicsC.h"
 
 void MainC::mainC() {
-    AmazaingBasicsC basicsC;
-    basicsC.showArray();
+    ArrayBasicsC arrayBasicsC;
+    arrayBasicsC.showArrayBasicsC();
 }

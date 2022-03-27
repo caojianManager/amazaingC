@@ -3,4 +3,4 @@ project(amazaingC)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(amazaingC main.cpp BasicsC/AmazaingBasicsC.cpp BasicsC/AmazaingBasicsC.h BasicsC/MainC.cpp BasicsC/MainC.h)
+add_executable(amazaingC main.cpp BasicsC/MainC.cpp BasicsC/MainC.h BasicsC/ArrayBasicsC/ArrayBasicsC.cpp BasicsC/ArrayBasicsC/ArrayBasicsC.h)
