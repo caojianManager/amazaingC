@@ -4,8 +4,16 @@
 
 #include "MainC.h"
 #include "ArrayBasicsC/ArrayBasicsC.h"
+#include "STLBasicsC/STLBasicsC.h"
 
 void MainC::mainC() {
+    //数组
     ArrayBasicsC arrayBasicsC;
-    arrayBasicsC.showArrayBasicsC();
+//    arrayBasicsC.showArrayBasicsC();
+
+
+    //STL
+    cout << "----------------------- STL" << endl;
+    STLBasicsC stlBasicsC;
+//    stlBasicsC.stlBasicsCPrint();
 }
