@@ -1,9 +1,9 @@
 # ninja log v5
-0	72	1650353817709986511	build.ninja	d2f50ed7c24ee48f
+0	72	1650854739465413179	build.ninja	d2f50ed7c24ee48f
 4	564	1650116655405057472	CMakeFiles/amazaingC.dir/main.cpp.o	c3395c6a188504c
 3	563	1648275191957612873	CMakeFiles/amazaingC.dir/BasicsC/AmazaingBasicsC.cpp.o	2d377aedad20f9bd
-4	707	1650116588683111577	CMakeFiles/amazaingC.dir/BasicsC/STLBasicsC/VectorBasicsC/VectorBasicsC.cpp.o	eb6a2c4f9751dee8
 5	935	1650116570068907375	CMakeFiles/amazaingC.dir/BasicsC/ArrayBasicsC/ArrayBasicsC.cpp.o	f5b427cd80f13e28
+4	707	1650116588683111577	CMakeFiles/amazaingC.dir/BasicsC/STLBasicsC/VectorBasicsC/VectorBasicsC.cpp.o	eb6a2c4f9751dee8
 6	960	1650116570094999224	CMakeFiles/amazaingC.dir/ArithmeticC/SortArithmeticC/SortArithmeticC.cpp.o	494f78d265ad049
 655	743	1650116756028465754	amazaingC	ef351de021a9d5c3
 4	719	1650116610107163546	CMakeFiles/amazaingC.dir/ArithmeticC/ArithmeticMainC.cpp.o	465591b77d714d85
